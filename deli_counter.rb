@@ -49,6 +49,7 @@ end
    
  else 
    binding.pry
+   array =
       name = katz_deli.shift
       
       puts "Currently serving #{name}."
