@@ -28,7 +28,7 @@ end
          num = katz_deli.size 
       
       puts "Welcome, #{name}. You are number #{num} in line."
-     
+     binding.pry
     
       katz_deli.push(name)
       
@@ -46,8 +46,8 @@ end
    puts "There is nobody waiting to be served!"
    
  else 
-   binding.pry
-   array = ["a", "b", "c"]
+   
+   
       name = katz_deli.shift
       
       puts "Currently serving #{name}."
