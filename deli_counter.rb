@@ -48,7 +48,7 @@ end
    puts "There is nobody waiting to be served!"
    
  else 
-   
+   binding.pry
       name = katz_deli.shift
       
       puts "Currently serving #{name}."
