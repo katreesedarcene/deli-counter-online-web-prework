@@ -34,7 +34,6 @@ end
       
       
       
-      puts "Welcome, #{name}. You are number #{num} in line."
      
     
  end 
