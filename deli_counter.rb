@@ -28,7 +28,7 @@ end
          num = katz_deli.size 
       
       puts "Welcome, #{name}. You are number #{num} in line."
-    else 
+     
     
       katz_deli.push(name)
       
