@@ -37,8 +37,6 @@ end
       puts "Welcome, #{name}. You are number #{num} in line."
      
     
-  
-     
  end 
  
  def now_serving(katz_deli)
